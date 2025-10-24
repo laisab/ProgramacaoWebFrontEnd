@@ -28,9 +28,9 @@ Esta tabela é o coração do meu diário de bordo. Aqui eu registro o que apren
 | Módulo / Projeto                | Tecnologias             | O que aprendi                                             | Status        |
 | ------------------------------- | ----------------------- | --------------------------------------------------------- | ------------- |
 | **01. Introdução ao HTML**      | `HTML5`                 | Estrutura semântica, tags, listas, tabelas e formulários. | ✅ Finalizado|
-| **02. Estilização com CSS**     | `CSS3`                  | Seletores, Box Model, cores, fontes e especificidade.     | 🔄 Em Progresso   |
-| **03. Introdução ao JavaScript**| `JavaScript`            | Variáveis, tipos de dados, operadores e funções.         | 💡 Planejado   |
-| **04. JS e o DOM**              | `HTML` `CSS` `JS`       | Selecionar elementos, manipular estilos e eventos.        | 💡 Planejado |
+| **02. Estilização com CSS**     | `CSS3`                  | Seletores, Box Model, cores, fontes e especificidade.     | ✅ Finalizado   |
+| **03. Introdução ao JavaScript**| `JavaScript`            | Variáveis, tipos de dados, operadores e funções.         | 🔄 Em Progresso   |
+| **04. JS e o DOM**              | `HTML` `CSS` `JS`       | Selecionar elementos, manipular estilos e eventos.        | 🔄 Em Progresso |
 
 ---
 
